@@ -1,0 +1,6 @@
+0 No crack
+1 Crack
+2 Corrosion stain
+3 Exposed Bar
+4 Efflorescence
+5 Spallation
